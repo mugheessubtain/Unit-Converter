@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🌍 Unit Converter App")
+st.title("Unit Converter App")
 st.markdown("### Converts Various Units Instantly")
 st.write("Welcome! Select a category, enter a value, and get the converted result in real-time.")
 
